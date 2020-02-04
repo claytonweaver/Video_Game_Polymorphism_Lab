@@ -1,0 +1,11 @@
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\bin\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.deps.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\bin\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.runtimeconfig.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\bin\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.runtimeconfig.dev.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\bin\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\bin\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.pdb
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\obj\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.csprojAssemblyReference.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\obj\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\obj\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.AssemblyInfoInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\obj\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.AssemblyInfo.cs
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\obj\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Lecture_Follow_Along\Video_Game_Polymorphism_Additional_Assignment\obj\Debug\netcoreapp2.2\Video_Game_Polymorphism_Additional_Assignment.pdb
